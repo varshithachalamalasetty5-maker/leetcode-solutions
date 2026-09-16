@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
