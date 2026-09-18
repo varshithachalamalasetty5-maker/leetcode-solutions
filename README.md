@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0045-jump-game-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
