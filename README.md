@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
