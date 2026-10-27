@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
