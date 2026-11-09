@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -785,4 +788,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
