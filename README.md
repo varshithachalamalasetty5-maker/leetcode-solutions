@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0213-house-robber-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0213-house-robber-ii) |
 ## Manacher
 |  |
 | ------- |
