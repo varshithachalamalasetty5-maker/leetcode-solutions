@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
