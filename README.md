@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0221-maximal-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0221-maximal-square) |
 ## Manacher
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0221-maximal-square) |
 ## Algorithm X
 |  |
 | ------- |
