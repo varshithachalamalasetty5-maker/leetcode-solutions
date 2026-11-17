@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -783,10 +786,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Iterator
 |  |
 | ------- |
