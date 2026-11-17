@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0228-summary-ranges) |
 ## Binary Search
 |  |
 | ------- |
