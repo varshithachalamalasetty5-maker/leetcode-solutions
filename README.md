@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Manacher
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
 | ------- |
