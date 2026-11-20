@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
