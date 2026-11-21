@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0258-add-digits) |
 ## Quicksort
 |  |
 | ------- |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
