@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0275-h-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/varshithachalamalasetty5-maker/leetcode-solutions/tree/master/0275-h-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
